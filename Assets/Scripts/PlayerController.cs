@@ -43,6 +43,13 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
+
+        // if orb Z value = greater than 0 add force in positive Z direction
+        // else orb Z value = less than 0 add force in negative Z direction 
+
+
+
+
         Vector3 movement = new Vector3(movementX, 0.0f, movementY);
 
 
