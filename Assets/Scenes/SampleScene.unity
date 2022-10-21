@@ -14658,6 +14658,7 @@ GameObject:
   - component: {fileID: 715993389}
   - component: {fileID: 715993388}
   - component: {fileID: 715993387}
+  - component: {fileID: 715993392}
   m_Layer: 0
   m_Name: tooth_test (3)
   m_TagString: Untagged
@@ -15129,6 +15130,22 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!54 &715993392
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 715993385}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &729300988
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23092,6 +23109,7 @@ GameObject:
   - component: {fileID: 1223780437}
   - component: {fileID: 1223780436}
   - component: {fileID: 1223780435}
+  - component: {fileID: 1223780440}
   m_Layer: 0
   m_Name: tooth_test (4)
   m_TagString: Untagged
@@ -23563,6 +23581,22 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!54 &1223780440
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1223780433}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1231183833
 GameObject:
   m_ObjectHideFlags: 0
@@ -30591,6 +30625,7 @@ GameObject:
   - component: {fileID: 1533658944}
   - component: {fileID: 1533658943}
   - component: {fileID: 1533658942}
+  - component: {fileID: 1533658947}
   m_Layer: 0
   m_Name: tooth_test
   m_TagString: Untagged
@@ -31062,6 +31097,22 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!54 &1533658947
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533658940}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1537927833
 GameObject:
   m_ObjectHideFlags: 0
@@ -33305,6 +33356,7 @@ GameObject:
   - component: {fileID: 1650541121}
   - component: {fileID: 1650541120}
   - component: {fileID: 1650541119}
+  - component: {fileID: 1650541124}
   m_Layer: 0
   m_Name: tooth_test (2)
   m_TagString: Untagged
@@ -33776,6 +33828,22 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!54 &1650541124
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1650541117}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1658587095
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35543,6 +35611,7 @@ GameObject:
   - component: {fileID: 1759055494}
   - component: {fileID: 1759055493}
   - component: {fileID: 1759055492}
+  - component: {fileID: 1759055497}
   m_Layer: 0
   m_Name: tooth_test (3)
   m_TagString: Untagged
@@ -36014,6 +36083,22 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!54 &1759055497
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759055490}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1764996460
 GameObject:
   m_ObjectHideFlags: 0
@@ -36513,6 +36598,7 @@ GameObject:
   - component: {fileID: 1766366058}
   - component: {fileID: 1766366057}
   - component: {fileID: 1766366056}
+  - component: {fileID: 1766366061}
   m_Layer: 0
   m_Name: tooth_test (1)
   m_TagString: Untagged
@@ -36984,6 +37070,22 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!54 &1766366061
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1766366054}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1773500895
 GameObject:
   m_ObjectHideFlags: 0
@@ -39279,6 +39381,7 @@ GameObject:
   - component: {fileID: 1916987563}
   - component: {fileID: 1916987562}
   - component: {fileID: 1916987561}
+  - component: {fileID: 1916987566}
   m_Layer: 0
   m_Name: tooth_test (3)
   m_TagString: Untagged
@@ -39750,6 +39853,22 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!54 &1916987566
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1916987559}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!43 &1932334420
 Mesh:
   m_ObjectHideFlags: 0
@@ -40178,7 +40297,7 @@ Transform:
   m_GameObject: {fileID: 1976245153}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 5.1550007, y: 3.0149994, z: -11.725}
-  m_LocalScale: {x: 3.5, y: 3.5, z: 3.5}
+  m_LocalScale: {x: 17.2354, y: 17.2354, z: 17.2354}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 781424443}
@@ -40678,6 +40797,7 @@ GameObject:
   - component: {fileID: 2016916747}
   - component: {fileID: 2016916746}
   - component: {fileID: 2016916745}
+  - component: {fileID: 2016916750}
   m_Layer: 0
   m_Name: tooth_test (5)
   m_TagString: Untagged
@@ -41149,6 +41269,22 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!54 &2016916750
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016916743}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!43 &2027336127
 Mesh:
   m_ObjectHideFlags: 0
@@ -41362,6 +41498,7 @@ GameObject:
   - component: {fileID: 2034374426}
   - component: {fileID: 2034374425}
   - component: {fileID: 2034374424}
+  - component: {fileID: 2034374429}
   m_Layer: 0
   m_Name: tooth_test (1)
   m_TagString: Untagged
@@ -41833,6 +41970,22 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!54 &2034374429
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2034374422}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &2041979964
 GameObject:
   m_ObjectHideFlags: 0
@@ -43563,6 +43716,7 @@ GameObject:
   - component: {fileID: 2082775110}
   - component: {fileID: 2082775109}
   - component: {fileID: 2082775108}
+  - component: {fileID: 2082775113}
   m_Layer: 0
   m_Name: tooth_test (2)
   m_TagString: Untagged
@@ -44034,6 +44188,22 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!54 &2082775113
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2082775106}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &2096301983
 GameObject:
   m_ObjectHideFlags: 0
