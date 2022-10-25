@@ -26,7 +26,7 @@ public class PickupDetector : MonoBehaviour
     void SetCountText()
     {
         countText.text = "Count: " + count.ToString();
-        if (count >= 16)
+        if (count >= 1)
         {
             winTextObject.SetActive(true);
         }
